@@ -6,3 +6,15 @@
 <img src="https://github.com/stuffedmeat/stuffedmeat/blob/8ba14a93e6421029dfcc0a70042d31c3e385a2ea/Untitled23_20261030034928.webp" width=460>
 </p>
 
+<p align="center">
+<img src="https://github.com/stuffedmeat/stuffedmeat/blob/873913d9458d27960a5a49f8444800dd4de48260/Untitled25_20261030155542.png" width=400>
+</p>
+
+<p align="center">
+<img src="https://github.com/stuffedmeat/stuffedmeat/blob/873913d9458d27960a5a49f8444800dd4de48260/Untitled23_20261030155124.webp" width=150>
+</p>
+<p align="center">
+<sub>
+${\color{#FCF0EE}\text{c+h⠀freely}}$
+</sub>
+</p>
