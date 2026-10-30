@@ -15,6 +15,6 @@
 </p>
 <p align="center">
 <sub>
-${\color{#FCF0EE}\text{c+h⠀freely}}$
+${\color{#FCF0EE}\text{c+h⠀freely}}$ <br> ${\color{#E67E85}\text{our}}$ <a href="https://github.com/kissyxo">better⠀half</a>
 </sub>
 </p>
