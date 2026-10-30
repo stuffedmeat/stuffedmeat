@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-<sub>
-${\color{#FCF0EE}\text{huggy⠀synpath}}$ <br> ${\color{#E67E85}\text{his}}$ <a href="https://github.com/kissyxo">better</a> ${\color{#885B78}\text{half⠀<3}}$
-</sub>
+${\color{#FCF0EE}\text{huggy⠀synpath}}$ <br> ${\color{#E67E85}\text{our}}$⠀ <a href="https://github.com/kissyxo">better</a>⠀ ${\color{#885B78}\text{half⠀<3}}$
+</p>
+<p align="center">
+<img src="https://github.com/stuffedmeat/stuffedmeat/blob/63bc97bb6219421a1a2e33c860f5dc9eaee612a4/Untitled23_20261030155124.webp" width=110>
 </p>
