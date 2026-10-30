@@ -15,6 +15,6 @@
 </p>
 <p align="center">
 <sub>
-${\color{#FCF0EE}\text{huggy⠀comf}}$ <br> ${\color{#885B78}\text{our}}$⠀<a href="https://github.com/kissyxo">better</a> <br> ${\color{#E67E85}\text{half}}$
+${\color{#FCF0EE}\text{huggy⠀comf}}$ <br> ${\color{#E67E85}\text{our}}$⠀<a href="https://github.com/kissyxo">better</a ${\color{#885B78}\text{half}}$
 </sub>
 </p>
